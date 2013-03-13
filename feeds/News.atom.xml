@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Bussiere Rapid News</title><link href="http://bussiere.github.com/RapidNews/" rel="alternate"></link><link href="http://bussiere.github.com/RapidNews/feeds/News.atom.xml" rel="self"></link><id>http://bussiere.github.com/RapidNews/</id><updated>2012-11-26T00:00:00+01:00</updated><entry><title>Readme</title><link href="http://bussiere.github.com/RapidNews/readme.html" rel="alternate"></link><updated>2012-11-26T00:00:00+01:00</updated><author><name>Bussiere</name></author><id>tag:bussiere.github.com/RapidNews,2012-11-26:readme.html</id><summary type="html">&lt;p&gt;Le but est de publier a l'arrache ici mes news.
+Pour que plus tards je puisse les publier ou les garder.
+Ce sera a format court et twitter.&lt;/p&gt;</summary><category term="Readme"></category></entry></feed>
