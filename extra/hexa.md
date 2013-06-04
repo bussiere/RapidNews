@@ -1,6 +1,6 @@
 Date: 2013-06-02
 Title: Gamedesign et hexagones
-Category: gameDesign
+Category: News
 Tags: gamedesign,videogame,jeu,hexagon
 [0]: http://www.redblobgames.com/grids/hexagons/
 

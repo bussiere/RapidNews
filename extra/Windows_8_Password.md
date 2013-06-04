@@ -1,6 +1,6 @@
 Date: 2012-12-07
 Title: Le mot de passe windows 8 retourne
-Category: hack
+Category: News
 Tags: Hack,Mot de passe,Windows8,Password
 [0]: http://reboot.pro/topic/17872-reset-a-windows-8-password-without-using-any-third-party-software/  "Passoire style"
 

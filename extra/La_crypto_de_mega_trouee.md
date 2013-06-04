@@ -1,6 +1,6 @@
 Date: 2013-01-23
 Title: La crypto de mega retournee
-Category: hack
+Category: News
 Tags: Hack,crypto,cryptographie
 [0]: http://fail0verflow.com/blog/2013/megafail.html "FAIL"
 

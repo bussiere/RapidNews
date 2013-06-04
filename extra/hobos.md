@@ -1,6 +1,6 @@
 Date: 2013-03-13
 Title: Les nouveaux hobos
-Category: Photographie
+Category: News
 Tags: Photographie,Train,Hobo
 [0]: http://twentytwowords.com/2013/03/12/young-photographer-documents-his-years-of-vagabonding-on-freight-trains/ "Jolie"
 [1]: http://img534.imageshack.us/img534/1342/trainhoppingpicturesbym.jpg "hobo"

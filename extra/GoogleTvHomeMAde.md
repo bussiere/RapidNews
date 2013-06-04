@@ -1,6 +1,6 @@
 Date: 2013-01-06
 Title: Faire sa propre google-tv
-Category: Hack
+Category: News
 Tags: raspberrypi,google,tv
 
 [0]: http://raw.github.com/bussiere/Blog/gh-pages/static/images/raspberrypi_tv_google_tv.jpg  "Grande Version"

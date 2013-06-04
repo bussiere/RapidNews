@@ -1,6 +1,6 @@
 Date: 2013-06-04
 Title: Un chef sushi en coree du nord
-Category: BigBrother
+Category: News
 Tags: NorthKorea,Coree,nord,dictature
 [0]: http://www.gq.com/news-politics/newsmakers/201306/kim-jong-il-sushi-chef-kenji-fujimoto-adam-johnson-2013?printable=true
 

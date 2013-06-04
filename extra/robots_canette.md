@@ -1,6 +1,6 @@
 Date: 2013-03-13
 Title: Un robot pour boire gratuitement
-Category: Robot
+Category: News
 Tags: Robot,Hack
 [0]: http://www.semageek.com/roboarna-comment-voler-des-canettes-dans-un-distributeur-automatique-avec-un-robot/ "Nice"
 

@@ -1,13 +1,13 @@
 Date: 2013-03-14
-Title: Faire des duplicatas d'empreinte digitale
-Category: Empreinte
+Title: Les nouveaux hobos
+Category: News
 Tags: Empreinte,Digitale,Duplicata
 [0]: http://www.bbc.co.uk/news/world-latin-america-21756709 "Au doigt et a l oeil"
 
 
-Un photo reportage sur les hobos qui prennent les trains de fret.
+Un duplicata d'empreintes digitales en silicone, comme quoi ...
 
-[http://www.bbc.co.uk/news/world-latin-america-21756709][0]
+[http://www.bbc.co.uk/news/world-latin-america-21756709 ][0]
 
 
 
