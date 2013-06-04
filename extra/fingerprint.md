@@ -1,5 +1,5 @@
 Date: 2013-03-14
-Title: Les nouveaux hobos
+Title: Faire des doubles de doigts
 Category: News
 Tags: Empreinte,Digitale,Duplicata
 [0]: http://www.bbc.co.uk/news/world-latin-america-21756709 "Au doigt et a l oeil"
