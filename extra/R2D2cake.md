@@ -11,5 +11,5 @@ Chuis fan du concept
 
 [http://mfsamuel.blogspot.fr/2013/06/just-another-r2d2-birthday-cake-build.html][1]
 
-[![Asuka Swimsuit](https://raw.github.com/bussiere/RapidNews/gh-pages/static/images/r2d2.jpg)] [0] 
+[![Asuka Swimsuit](https://raw.github.com/bussiere/RapidNews/gh-pages/static/images/r2d2_thumb.jpg)] [0] 
 
