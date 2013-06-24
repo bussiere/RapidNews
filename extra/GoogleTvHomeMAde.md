@@ -4,7 +4,7 @@ Category: News
 Tags: raspberrypi,google,tv
 
 [0]: https://raw.github.com/bussiere/RapidNews/gh-pages/static/images/raspberrypi_tv_google_tv.jpg  "Grande Version"
-[1]: http://www.redblobgames.com/grids/hexagons/
+[1]: http://blog.donaldderek.com/2013/06/build-your-own-google-tv-using-raspberrypi-nodejs-and-socket-io/
 
 Comment faire soit meme sa propre google-tv avec nodejs, un raspberrypi et quelques trucs sympathiques.
 
