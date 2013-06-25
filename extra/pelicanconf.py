@@ -3,7 +3,7 @@
 
 AUTHOR = u'Bussiere'
 SITENAME = u'Bussiere Rapid News'
-SITEURL = ''
+SITEURL = '.'
 
 TIMEZONE = 'Europe/Paris'
 FEED_DOMAIN = 'http://bussiere.github.com/RapidNews'
