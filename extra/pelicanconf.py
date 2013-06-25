@@ -17,3 +17,5 @@ LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
 SOCIAL = (('Bussiere', 'http://bussiere.github.com/'),)
 
 DEFAULT_PAGINATION = 10
+
+THEME = "../pelican-themes/mnmlist"
