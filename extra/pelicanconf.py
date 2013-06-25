@@ -18,4 +18,4 @@ SOCIAL = (('Bussiere', 'http://bussiere.github.com/'),)
 
 DEFAULT_PAGINATION = 10
 
-THEME = "../pelican-themes/mnmlist"
+THEME = "../pelican-themes/gum"
