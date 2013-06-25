@@ -3,7 +3,7 @@
 
 AUTHOR = u'Bussiere'
 SITENAME = u'Bussiere Rapid News'
-SITEURL = '.'
+SITEURL = 'http://bussiere.github.io/RapidNews/'
 
 TIMEZONE = 'Europe/Paris'
 FEED_DOMAIN = 'http://bussiere.github.com/RapidNews'
@@ -18,4 +18,4 @@ SOCIAL = (('Bussiere', 'http://bussiere.github.com/'),)
 
 DEFAULT_PAGINATION = 10
 
-THEME = "../pelican-themes/gum"
+THEME = "../pelican-themes/bootstrap2"
