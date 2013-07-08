@@ -19,3 +19,5 @@ SOCIAL = (('Bussiere', 'http://bussiere.github.com/'),)
 DEFAULT_PAGINATION = 10
 
 THEME = "../pelican-themes/bootstrap2"
+
+FEED_ATOM = 'feeds/all.atom.xml'
