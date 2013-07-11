@@ -13,6 +13,8 @@ Tags: minipc,arm,rasperrypi
 Suite a un test de la ouya j'hesite a en prendre une
 
 Les specs :
+
+
 	99$
 	Processeur Tegra 3 quad-core T33 à 1,6Ghz
 	1 Go de RAM
@@ -28,11 +30,13 @@ Les specs :
 
 Tres bon site sur le mod de ouya : [http://news-ouya.blogspot.fr/][1]
 
+
 [![Asuka Swimsuit](http://bussiere.github.io/RapidNews/static/images/ouya-hand_thumb.jpg)] [0] 
 
 
 
 Mais a coté de cela on a le ODROID-X2 :
+
 
 	Prix : 135 $
 	Processor :	Samsung Exynos4412 Cortex-A9 Quad Core 1.7Ghz with 1MB L2 cache
@@ -57,12 +61,16 @@ Mais a coté de cela on a le ODROID-X2 :
 	Source : code will be uploaded on download page after first shipment.
 	Size 	: 90 x 94 mm 
 
+
 [![Asuka Swimsuit](http://bussiere.github.io/RapidNews/static/images/ODROID-X2.jpg)] [3] 
+
 
 Achat ici : [http://www.geekbuying.com/item/MK808B-Dual-Core-Android-4-1-Jelly-Bean-TV-BOX-RK3066-Cortex-A9-1GB-RAM-8GB-ROM-Mini-PC-TV-Box---Black-313213.html][4]
 
 
 Ou encore plus cheapos le MK808B :
+
+
 	Prix : 43.99 $
 	Connectors: HDMI
 	Operation System: Android
@@ -81,5 +89,6 @@ Ou encore plus cheapos le MK808B :
 
 
 [![Asuka Swimsuit](http://bussiere.github.io/RapidNews/static/images/MK808B_thumb.jpg)] [6] 
+
 
 Achat ici : [http://www.hardkernel.com/renewal_2011/products/prdt_info.php?g_code=G135235611947][5]

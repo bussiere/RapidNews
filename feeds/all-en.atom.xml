@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Bussiere Rapid News</title><link href="http://bussiere.github.io/RapidNews/" rel="alternate"></link><link href="http://bussiere.github.com/RapidNews/feeds%5Call-en.atom.xml" rel="self"></link><id>http://bussiere.github.io/RapidNews/</id><updated>2013-07-11T00:00:00+02:00</updated><entry><title>Des minis pcs en ARM</title><link href="http://bussiere.github.io/RapidNews/des-minis-pcs-en-arm.html" rel="alternate"></link><updated>2013-07-11T00:00:00+02:00</updated><author><name>Bussiere</name></author><id>tag:bussiere.github.io/RapidNews,2013-07-11:des-minis-pcs-en-arm.html</id><summary type="html">&lt;p&gt;Suite a un test de la ouya j'hesite a en prendre une&lt;/p&gt;
-&lt;p&gt;Les specs :
-    99$
-    Processeur Tegra 3 quad-core T33 à 1,6Ghz
-    1 Go de RAM
-    8 Go de mémoire flash interne de stockage
-    Connexion HDMI pour la TV, allant jusqu'à 1080p HD
-    Wi-Fi 802.11 b/g/n Bluetooth LE 4.0
-    1 x USB 2.0
-    1 x Micro-USB
-    Jusqu'à 4 manettes sans fil + pavé tactile
-    Android 4.2
-    Pas sur : Lecteur sd externe (a verifier)&lt;/p&gt;
+&lt;p&gt;Les specs :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="mi"&gt;99&lt;/span&gt;&lt;span class="err"&gt;$&lt;/span&gt;
+&lt;span class="n"&gt;Processeur&lt;/span&gt; &lt;span class="n"&gt;Tegra&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt; &lt;span class="n"&gt;quad&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;core&lt;/span&gt; &lt;span class="n"&gt;T33&lt;/span&gt; &lt;span class="err"&gt;à&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="n"&gt;Ghz&lt;/span&gt;
+&lt;span class="mi"&gt;1&lt;/span&gt; &lt;span class="n"&gt;Go&lt;/span&gt; &lt;span class="n"&gt;de&lt;/span&gt; &lt;span class="n"&gt;RAM&lt;/span&gt;
+&lt;span class="mi"&gt;8&lt;/span&gt; &lt;span class="n"&gt;Go&lt;/span&gt; &lt;span class="n"&gt;de&lt;/span&gt; &lt;span class="n"&gt;m&lt;/span&gt;&lt;span class="err"&gt;é&lt;/span&gt;&lt;span class="n"&gt;moire&lt;/span&gt; &lt;span class="n"&gt;flash&lt;/span&gt; &lt;span class="n"&gt;interne&lt;/span&gt; &lt;span class="n"&gt;de&lt;/span&gt; &lt;span class="n"&gt;stockage&lt;/span&gt;
+&lt;span class="n"&gt;Connexion&lt;/span&gt; &lt;span class="n"&gt;HDMI&lt;/span&gt; &lt;span class="n"&gt;pour&lt;/span&gt; &lt;span class="n"&gt;la&lt;/span&gt; &lt;span class="n"&gt;TV&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;allant&lt;/span&gt; &lt;span class="n"&gt;jusqu&lt;/span&gt;&lt;span class="err"&gt;&amp;#39;à&lt;/span&gt; &lt;span class="mi"&gt;1080&lt;/span&gt;&lt;span class="n"&gt;p&lt;/span&gt; &lt;span class="n"&gt;HD&lt;/span&gt;
+&lt;span class="n"&gt;Wi&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;Fi&lt;/span&gt; &lt;span class="mf"&gt;802.11&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;g&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;n&lt;/span&gt; &lt;span class="n"&gt;Bluetooth&lt;/span&gt; &lt;span class="n"&gt;LE&lt;/span&gt; &lt;span class="mf"&gt;4.0&lt;/span&gt;
+&lt;span class="mi"&gt;1&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="n"&gt;USB&lt;/span&gt; &lt;span class="mf"&gt;2.0&lt;/span&gt;
+&lt;span class="mi"&gt;1&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="n"&gt;Micro&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;USB&lt;/span&gt;
+&lt;span class="n"&gt;Jusqu&lt;/span&gt;&lt;span class="err"&gt;&amp;#39;à&lt;/span&gt; &lt;span class="mi"&gt;4&lt;/span&gt; &lt;span class="n"&gt;manettes&lt;/span&gt; &lt;span class="n"&gt;sans&lt;/span&gt; &lt;span class="n"&gt;fil&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="n"&gt;pav&lt;/span&gt;&lt;span class="err"&gt;é&lt;/span&gt; &lt;span class="n"&gt;tactile&lt;/span&gt;
+&lt;span class="n"&gt;Android&lt;/span&gt; &lt;span class="mf"&gt;4.2&lt;/span&gt;
+&lt;span class="n"&gt;Pas&lt;/span&gt; &lt;span class="n"&gt;sur&lt;/span&gt; &lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Lecteur&lt;/span&gt; &lt;span class="n"&gt;sd&lt;/span&gt; &lt;span class="n"&gt;externe&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;verifier&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;Tres bon site sur le mod de ouya : &lt;a href="http://news-ouya.blogspot.fr/"&gt;http://news-ouya.blogspot.fr/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://bussiere.github.io/RapidNews/static/images/ouya-hand.jpeg" title="Grande Version"&gt;&lt;img alt="Asuka Swimsuit" src="http://bussiere.github.io/RapidNews/static/images/ouya-hand_thumb.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
 &lt;p&gt;Mais a coté de cela on a le ODROID-X2 :&lt;/p&gt;
@@ -42,22 +45,25 @@
 
 &lt;p&gt;&lt;a href="http://bussiere.github.io/RapidNews/static/images/ODROID-X2.jpg" title="Grande Version"&gt;&lt;img alt="Asuka Swimsuit" src="http://bussiere.github.io/RapidNews/static/images/ODROID-X2.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
 &lt;p&gt;Achat ici : &lt;a href="http://www.geekbuying.com/item/MK808B-Dual-Core-Android-4-1-Jelly-Bean-TV-BOX-RK3066-Cortex-A9-1GB-RAM-8GB-ROM-Mini-PC-TV-Box---Black-313213.html" title="Grande Version"&gt;http://www.geekbuying.com/item/MK808B-Dual-Core-Android-4-1-Jelly-Bean-TV-BOX-RK3066-Cortex-A9-1GB-RAM-8GB-ROM-Mini-PC-TV-Box---Black-313213.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Ou encore plus cheapos le MK808B :
-    Prix : 43.99 $
-    Connectors: HDMI
-    Operation System: Android
-    Decode Ability: 1080P (Full-HD)
-    Recording: Yes
-    Hard Disk Capacity: Extern 
-    Model Number: MK808B
-    OS: Android 4.2
-    Connetor: HDMI 1.4
-    CPU: Cortex A9 dual core
-    GPU: Mali400 MP4
-    ROM: 8GB
-    Bluetooth: Yes. Build-in
-    Processor Main Frequency: 1.6GHz
-    Ram: 1GB&lt;/p&gt;
+&lt;p&gt;Ou encore plus cheapos le MK808B :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;Prix&lt;/span&gt; &lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mf"&gt;43.99&lt;/span&gt; &lt;span class="n"&gt;$&lt;/span&gt;
+&lt;span class="n"&gt;Connectors&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;HDMI&lt;/span&gt;
+&lt;span class="n"&gt;Operation&lt;/span&gt; &lt;span class="n"&gt;System&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Android&lt;/span&gt;
+&lt;span class="n"&gt;Decode&lt;/span&gt; &lt;span class="n"&gt;Ability&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;1080&lt;/span&gt;&lt;span class="n"&gt;P&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;Full&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;HD&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;Recording&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Yes&lt;/span&gt;
+&lt;span class="n"&gt;Hard&lt;/span&gt; &lt;span class="n"&gt;Disk&lt;/span&gt; &lt;span class="n"&gt;Capacity&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Extern&lt;/span&gt; 
+&lt;span class="n"&gt;Model&lt;/span&gt; &lt;span class="n"&gt;Number&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;MK808B&lt;/span&gt;
+&lt;span class="n"&gt;OS&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Android&lt;/span&gt; &lt;span class="mf"&gt;4.2&lt;/span&gt;
+&lt;span class="n"&gt;Connetor&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;HDMI&lt;/span&gt; &lt;span class="mf"&gt;1.4&lt;/span&gt;
+&lt;span class="n"&gt;CPU&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Cortex&lt;/span&gt; &lt;span class="n"&gt;A9&lt;/span&gt; &lt;span class="n"&gt;dual&lt;/span&gt; &lt;span class="n"&gt;core&lt;/span&gt;
+&lt;span class="n"&gt;GPU&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Mali400&lt;/span&gt; &lt;span class="n"&gt;MP4&lt;/span&gt;
+&lt;span class="n"&gt;ROM&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;GB&lt;/span&gt;
+&lt;span class="n"&gt;Bluetooth&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Yes&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Build&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="k"&gt;in&lt;/span&gt;
+&lt;span class="n"&gt;Processor&lt;/span&gt; &lt;span class="n"&gt;Main&lt;/span&gt; &lt;span class="n"&gt;Frequency&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mf"&gt;1.6&lt;/span&gt;&lt;span class="n"&gt;GHz&lt;/span&gt;
+&lt;span class="n"&gt;Ram&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="n"&gt;GB&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;&lt;a href="http://bussiere.github.io/RapidNews/static/images/MK808B.jpg" title="Grande Version"&gt;&lt;img alt="Asuka Swimsuit" src="http://bussiere.github.io/RapidNews/static/images/MK808B_thumb.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
 &lt;p&gt;Achat ici : &lt;a href="http://www.hardkernel.com/renewal_2011/products/prdt_info.php?g_code=G135235611947"&gt;http://www.hardkernel.com/renewal_2011/products/prdt_info.php?g_code=G135235611947&lt;/a&gt;&lt;/p&gt;</summary><category term="minipc"></category><category term="arm"></category><category term="rasperrypi"></category></entry><entry><title>Porn de data grace a ubisoft</title><link href="http://bussiere.github.io/RapidNews/porn-de-data-grace-a-ubisoft.html" rel="alternate"></link><updated>2013-07-08T00:00:00+02:00</updated><author><name>Bussiere</name></author><id>tag:bussiere.github.io/RapidNews,2013-07-08:porn-de-data-grace-a-ubisoft.html</id><summary type="html">&lt;p&gt;Une map de paris en mashup avec beaucoup de datas :&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://wearedata.watchdogs.com/start.php?locale=en-EN&amp;amp;city=paris"&gt;http://wearedata.watchdogs.com/start.php?locale=en-EN&amp;amp;city=paris&lt;/a&gt;&lt;/p&gt;
