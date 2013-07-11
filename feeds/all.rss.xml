@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bussiere Rapid News</title><link>http://bussiere.github.io/RapidNews/</link><description></description><atom:link href="http://bussiere.github.com/RapidNews/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 11 Jul 2013 00:00:00 +0200</lastBuildDate><item><title>Des minis pcs en ARM</title><link>http://bussiere.github.io/RapidNews/des-minis-pcs-en-arm.html</link><description>&lt;p&gt;Suite a un test de la ouya j'hesite a en prendre une&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://bussiere.github.io/RapidNews/static/images/ouya-hand.jpeg" title="Grande Version"&gt;&lt;img alt="Asuka Swimsuit" src="http://bussiere.github.io/RapidNews/static/images/ouya-hand_thumb.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
 &lt;p&gt;Les specs :&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="mi"&gt;99&lt;/span&gt; &lt;span class="err"&gt;$&lt;/span&gt;
 &lt;span class="n"&gt;Processeur&lt;/span&gt; &lt;span class="n"&gt;Tegra&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt; &lt;span class="n"&gt;quad&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;core&lt;/span&gt; &lt;span class="n"&gt;T33&lt;/span&gt; &lt;span class="err"&gt;à&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="n"&gt;Ghz&lt;/span&gt;
@@ -16,8 +17,8 @@
 
 
 &lt;p&gt;Tres bon site sur le mod de ouya : &lt;a href="http://news-ouya.blogspot.fr/"&gt;http://news-ouya.blogspot.fr/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://bussiere.github.io/RapidNews/static/images/ouya-hand.jpeg" title="Grande Version"&gt;&lt;img alt="Asuka Swimsuit" src="http://bussiere.github.io/RapidNews/static/images/ouya-hand_thumb.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
 &lt;p&gt;Mais a coté de cela on a le ODROID-X2 :&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://bussiere.github.io/RapidNews/static/images/ODROID-X2.jpg" title="Grande Version"&gt;&lt;img alt="Asuka Swimsuit" src="http://bussiere.github.io/RapidNews/static/images/ODROID-X2.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;Prix&lt;/span&gt; &lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;135&lt;/span&gt; &lt;span class="n"&gt;$&lt;/span&gt;
 &lt;span class="n"&gt;Processor&lt;/span&gt; &lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Samsung&lt;/span&gt; &lt;span class="n"&gt;Exynos4412&lt;/span&gt; &lt;span class="n"&gt;Cortex&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;A9&lt;/span&gt; &lt;span class="n"&gt;Quad&lt;/span&gt; &lt;span class="n"&gt;Core&lt;/span&gt; &lt;span class="mf"&gt;1.7&lt;/span&gt;&lt;span class="n"&gt;Ghz&lt;/span&gt; &lt;span class="k"&gt;with&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="n"&gt;MB&lt;/span&gt; &lt;span class="n"&gt;L2&lt;/span&gt; &lt;span class="n"&gt;cache&lt;/span&gt;
 &lt;span class="n"&gt;Memory&lt;/span&gt;   &lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="n"&gt;GB&lt;/span&gt; &lt;span class="n"&gt;LP&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;DDR2&lt;/span&gt; &lt;span class="mi"&gt;880&lt;/span&gt;&lt;span class="n"&gt;Mega&lt;/span&gt; &lt;span class="n"&gt;data&lt;/span&gt; &lt;span class="n"&gt;rate&lt;/span&gt;
@@ -43,9 +44,9 @@
 &lt;/pre&gt;&lt;/div&gt;
 
 
-&lt;p&gt;&lt;a href="http://bussiere.github.io/RapidNews/static/images/ODROID-X2.jpg" title="Grande Version"&gt;&lt;img alt="Asuka Swimsuit" src="http://bussiere.github.io/RapidNews/static/images/ODROID-X2.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
 &lt;p&gt;Achat ici : &lt;a href="http://www.geekbuying.com/item/MK808B-Dual-Core-Android-4-1-Jelly-Bean-TV-BOX-RK3066-Cortex-A9-1GB-RAM-8GB-ROM-Mini-PC-TV-Box---Black-313213.html" title="Grande Version"&gt;http://www.geekbuying.com/item/MK808B-Dual-Core-Android-4-1-Jelly-Bean-TV-BOX-RK3066-Cortex-A9-1GB-RAM-8GB-ROM-Mini-PC-TV-Box---Black-313213.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Ou encore plus cheapos le MK808B :&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://bussiere.github.io/RapidNews/static/images/MK808B.jpg" title="Grande Version"&gt;&lt;img alt="Asuka Swimsuit" src="http://bussiere.github.io/RapidNews/static/images/MK808B_thumb.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;Prix&lt;/span&gt; &lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="mf"&gt;43.99&lt;/span&gt; &lt;span class="n"&gt;$&lt;/span&gt;
 &lt;span class="n"&gt;Connectors&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;HDMI&lt;/span&gt;
 &lt;span class="n"&gt;Operation&lt;/span&gt; &lt;span class="n"&gt;System&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Android&lt;/span&gt;
@@ -64,7 +65,6 @@
 &lt;/pre&gt;&lt;/div&gt;
 
 
-&lt;p&gt;&lt;a href="http://bussiere.github.io/RapidNews/static/images/MK808B.jpg" title="Grande Version"&gt;&lt;img alt="Asuka Swimsuit" src="http://bussiere.github.io/RapidNews/static/images/MK808B_thumb.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;
 &lt;p&gt;Achat ici : &lt;a href="http://www.hardkernel.com/renewal_2011/products/prdt_info.php?g_code=G135235611947"&gt;http://www.hardkernel.com/renewal_2011/products/prdt_info.php?g_code=G135235611947&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bussiere</dc:creator><pubDate>Thu, 11 Jul 2013 00:00:00 +0200</pubDate><guid>tag:bussiere.github.io/RapidNews,2013-07-11:des-minis-pcs-en-arm.html</guid><category>minipc</category><category>arm</category><category>rasperrypi</category></item><item><title>Porn de data grace a ubisoft</title><link>http://bussiere.github.io/RapidNews/porn-de-data-grace-a-ubisoft.html</link><description>&lt;p&gt;Une map de paris en mashup avec beaucoup de datas :&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://wearedata.watchdogs.com/start.php?locale=en-EN&amp;amp;city=paris"&gt;http://wearedata.watchdogs.com/start.php?locale=en-EN&amp;amp;city=paris&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://bussiere.github.io/RapidNews/static/images/dataporn.jpg" title="Grande Version"&gt;&lt;img alt="Asuka Swimsuit" src="http://bussiere.github.io/RapidNews/static/images/dataporn_thumbs.jpg" /&gt;&lt;/a&gt; &lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bussiere</dc:creator><pubDate>Mon, 08 Jul 2013 00:00:00 +0200</pubDate><guid>tag:bussiere.github.io/RapidNews,2013-07-08:porn-de-data-grace-a-ubisoft.html</guid><category>dataporn</category><category>data</category><category>opendata</category><category>bigbrother</category></item><item><title>ordinateur Quantique</title><link>http://bussiere.github.io/RapidNews/ordinateur-quantique.html</link><description>&lt;p&gt;On a toujours des doutes quand a savoir ce que cet ordinateur est interessant mais quelques pistes :&lt;/p&gt;
