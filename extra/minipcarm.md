@@ -10,6 +10,7 @@ Tags: minipc,arm,rasperrypi
 [4]: http://www.geekbuying.com/item/MK808B-Dual-Core-Android-4-1-Jelly-Bean-TV-BOX-RK3066-Cortex-A9-1GB-RAM-8GB-ROM-Mini-PC-TV-Box---Black-313213.html "Grande Version"
 [5]: http://www.hardkernel.com/renewal_2011/products/prdt_info.php?g_code=G135235611947
 [6]: http://bussiere.github.io/RapidNews/static/images/MK808B.jpg "Grande Version"
+
 Suite a un test de la ouya j'hesite a en prendre une
 
 
@@ -39,6 +40,7 @@ Tres bon site sur le mod de ouya : [http://news-ouya.blogspot.fr/][1]
 
 
 Mais a coté de cela on a le ODROID-X2 :
+
 
 [![Asuka Swimsuit](http://bussiere.github.io/RapidNews/static/images/ODROID-X2.jpg)] [3] 
 
@@ -74,7 +76,6 @@ Achat ici : [http://www.geekbuying.com/item/MK808B-Dual-Core-Android-4-1-Jelly-B
 
 
 Ou encore plus cheapos le MK808B :
-
 
 
 [![Asuka Swimsuit](http://bussiere.github.io/RapidNews/static/images/MK808B_thumb.jpg)] [6] 
