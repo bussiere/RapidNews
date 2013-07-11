@@ -15,15 +15,15 @@ Suite a un test de la ouya j'hesite a en prendre une
 Les specs :
 
 
-	99$
+	99 $
 	Processeur Tegra 3 quad-core T33 à 1,6Ghz
 	1 Go de RAM
-	8 Go de mémoire flash interne de stockage
-	Connexion HDMI pour la TV, allant jusqu'à 1080p HD
+	8 Go de memoire flash interne de stockage
+	Connexion HDMI pour la TV, allant jusqu a 1080p HD
 	Wi-Fi 802.11 b/g/n Bluetooth LE 4.0
 	1 x USB 2.0
 	1 x Micro-USB
-	Jusqu'à 4 manettes sans fil + pavé tactile
+	Jusqu a 4 manettes sans fil + pave tactile
 	Android 4.2
 	Pas sur : Lecteur sd externe (a verifier)
 
