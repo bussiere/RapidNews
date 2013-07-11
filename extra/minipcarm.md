@@ -20,7 +20,7 @@ Les specs :
 
 
 	99 $
-	Processeur Tegra 3 quad-core T33 à 1,6Ghz
+	Processeur Tegra 3 quad-core T33 a 1,6Ghz
 	1 Go de RAM
 	8 Go de memoire flash interne de stockage
 	Connexion HDMI pour la TV, allant jusqu a 1080p HD
@@ -33,12 +33,12 @@ Les specs :
 
 
 Tres bon site sur le mod de ouya : [http://news-ouya.blogspot.fr/][1]
-
-
-
-
-
-
+    
+  
+  
+  
+  
+  
 Mais a coté de cela on a le ODROID-X2 :
 
 
@@ -73,8 +73,12 @@ Mais a coté de cela on a le ODROID-X2 :
 
 
 Achat ici : [http://www.geekbuying.com/item/MK808B-Dual-Core-Android-4-1-Jelly-Bean-TV-BOX-RK3066-Cortex-A9-1GB-RAM-8GB-ROM-Mini-PC-TV-Box---Black-313213.html][4]
-
-
+    
+  
+  
+  
+  
+  
 Ou encore plus cheapos le MK808B :
 
 
