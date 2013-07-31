@@ -4,7 +4,7 @@ Category: News
 Tags: piratebox,raspberrypi,hack
 
 
-[0]: http://www.3ders.org/articles/20130729-disney-new-image-algorithm-turns-2d-photos-into-a-3d-model.html
+[0]: http://n0where.net/piratebox-on-raspberry-pi/
 [1]: http://bussiere.github.io/RapidNews/static/images/3d.png "Grande Version"
 
 Faire une piratebox simplement a partir d'un raspberrypi :
