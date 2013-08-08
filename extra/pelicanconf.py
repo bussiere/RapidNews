@@ -19,7 +19,7 @@ SOCIAL = (('Bussiere', 'https://github.com/bussiere'),)
 DEFAULT_PAGINATION = 10
 
 
-THEME = "../pelican-themes/simple2"
+THEME = "../pelican-themes/dev-random2"
 PLUGIN_PATH = "../pelican-plugins/"
 PLUGINS = ['sitemap',]
 FEED_MAX_ITEMS = 15
