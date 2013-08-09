@@ -43,3 +43,5 @@ https://countermail.com/
 http://robfig.github.io/revel/tutorial/gettingstarted.html
 
 http://mailinator.com/?new
+
+http://bits.blogs.nytimes.com/2013/08/08/two-providers-of-encrypted-e-mail-shut-down/
