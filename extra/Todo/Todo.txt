@@ -12,6 +12,7 @@ http://www.geekzone.fr/ipb/topic/50640-ingress-le-mopeurg-dans-la-vraie-vie/?hl=
 
 
 http://yz.mit.edu/wp/introducing-reactive-coffee/entry840404
+
 https://www.digitalocean.com/pricing
 
 http://www.wired.com/design/2013/08/how-a-startups-cheap-sensors-could-bring-shopping-and-mobile-computing-into-the-future/
@@ -33,11 +34,12 @@ http://learningthreejs.com/blog/2013/08/02/how-to-do-a-procedural-city-in-100lin
 http://www.alexhudson.com/2013/05/28/a-first-look-at-docker-io/
 
 http://blog.docker.io/2013/08/getting-to-docker-1-0/
+http://hugo.spf13.com/doc/installing
 
 
 http://bits.blogs.nytimes.com/2013/08/08/two-providers-of-encrypted-e-mail-shut-down/?_r=0
 https://countermail.com/
 
-
+http://robfig.github.io/revel/tutorial/gettingstarted.html
 
 http://mailinator.com/?new
