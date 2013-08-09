@@ -1,29 +1,37 @@
+Done : 
+https://bluepass.org/
+done :
+http://www.rfk.id.au/blog/entry/pypy-js-poc-jit/#graph
+done :
+http://python-for-android.readthedocs.org/en/latest/
+done :
+http://www.indiegogo.com/projects/mailpile-taking-e-mail-back
+done :
+http://www.indiegogo.com/projects/ubuntu-edge?c=activity
+done :
+http://robfig.github.io/revel/tutorial/gettingstarted.html
+done :
+http://hugo.spf13.com/doc/installing
+done :
+http://bits.blogs.nytimes.com/2013/08/08/two-providers-of-encrypted-e-mail-shut-down/
+
+
 http://www.bbc.com/future/story/20130724-saving-civilisation-in-one-room/all
 http://www.upperplayground.com/
 http://www.williamghelfi.com/blog/2013/08/04/bootstrap-in-practice-a-landing-page/
 
-http://www.indiegogo.com/projects/mailpile-taking-e-mail-back
+
 
 http://www.slideshare.net/astamos/bh-slides
 
 http://playdoh.readthedocs.org/en/latest/
-
 http://www.geekzone.fr/ipb/topic/50640-ingress-le-mopeurg-dans-la-vraie-vie/?hl=%2Bcampagne#entry840404
-
 
 http://yz.mit.edu/wp/introducing-reactive-coffee/entry840404
 
 https://www.digitalocean.com/pricing
 
 http://www.wired.com/design/2013/08/how-a-startups-cheap-sensors-could-bring-shopping-and-mobile-computing-into-the-future/
-
-http://python-for-android.readthedocs.org/en/latest/
-
-http://www.rfk.id.au/blog/entry/pypy-js-poc-jit/#graph
-
-http://www.indiegogo.com/projects/ubuntu-edge?c=activity
-
-http://www.indiegogo.com/projects/ubuntu-edge?c=activity
 
 http://roundabout.io/
 
@@ -34,14 +42,16 @@ http://learningthreejs.com/blog/2013/08/02/how-to-do-a-procedural-city-in-100lin
 http://www.alexhudson.com/2013/05/28/a-first-look-at-docker-io/
 
 http://blog.docker.io/2013/08/getting-to-docker-1-0/
-http://hugo.spf13.com/doc/installing
 
 
-http://bits.blogs.nytimes.com/2013/08/08/two-providers-of-encrypted-e-mail-shut-down/?_r=0
 https://countermail.com/
-
-http://robfig.github.io/revel/tutorial/gettingstarted.html
 
 http://mailinator.com/?new
 
-http://bits.blogs.nytimes.com/2013/08/08/two-providers-of-encrypted-e-mail-shut-down/
+
+
+http://aralbalkan.com/notes/schnail-mail-free-real-mail-for-life/
+
+http://www.nature.com/news/lasers-boost-space-communications-1.13396
+
+http://blogging.makesmeanerd.com/?tag=golang
