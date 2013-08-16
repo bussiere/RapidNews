@@ -60,3 +60,5 @@ http://freecode.com/projects/sysfunc
 https://github.com/flaupretre/sysfunc/wiki/Function-reference
 
 http://blog.grunseid.com/2013/arc.html
+
+https://github.com/gcmurphy/golang-openshift
